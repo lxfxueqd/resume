@@ -5,6 +5,11 @@
       margin: 0 auto;
       border:1px solid grey;
   }
+  #s1{
+    font-size:30px;
+    font-style:bold;
+
+  }
 .c1 {
     width: 15%;
     float: left;
