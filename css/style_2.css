@@ -1,17 +1,22 @@
+body{
+  width:100%;
+  height:650px;
+}
 #s1{
-    width:10%;
-    height:700px;
+    width:5%;
+    height:480px;
     float:left;
     background-color:#65A5FA;
     color: #FFFFFF;
-    padding: 10%;
+    padding: 4%;
+    font-size:30px;
 }
-
 .cc{
     margin-left:1%;
     float:right;
-    width:59%;
+    width:55%;
     margin-right:30%;
+    padding-top:1%;
 }
 
 .c1 {
